@@ -13,6 +13,6 @@ A stateless chat graph using LangGraph with a single tool (`get_current_time`) t
    git clone <your_repo>
    python -m venv .venv
    .venv\Scripts\activate  # On Windows
-   pip install -r requirements.txt
-3. **Run the Script**:
-   python main.py
+   pip install -r requirements.txt  
+   python main.py  # Run the Script
+   
